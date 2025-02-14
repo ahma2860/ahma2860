@@ -1,3 +1,20 @@
+# Amir Noori
+
+**Data Science, BSc. | Third year student**
+
+![Profile Image](https://avatars.githubusercontent.com/u/128433640?v=4)
+
+- **Location:** Waterloo, Ontario, Canada
+- **Email:** st.ahmadi98@gmail.com
+- **LinkedIn:** [in/amirnoorii](https://linkedin.com/in/amirnoorii)
+
+## About Me
+I am a third year Data Science student at Wilfrid Laurier University, Waterloo, Ontario, Canada.
+
+## Follow Me
+- **GitHub:** [Follow](https://github.com/ahma2860)
+
+
 ## Amir Noori  &nbsp;&nbsp;&nbsp;   [![Linkedin](https://img.shields.io/badge/-blue?label=Linkedin&style=social&logo=Linkedin)](https://www.linkedin.com/in/amirnoori)   [![Gmail](https://img.shields.io/badge/-green?label=Gmail&style=social&logo=Gmail)](mailto:st.ahmadi98@gmail.com)   [![GitHub](https://img.shields.io/badge/-green?label=GitHub&style=social&logo=Github)](https://github.com/ahma2860)     
 
 <!--- 
